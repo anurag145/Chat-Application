@@ -5,8 +5,8 @@ Chat application using node.js, express.js and socket.io
 
 <p>Clone the project</p>
 <p>Get the following dependencies</p>
- <p>npm install express --save</p>
-<p>npm install socket.io --save</p>
+ <p>npm install</p>
+
 
 ### Run the project using 
  <p>node index</p>
